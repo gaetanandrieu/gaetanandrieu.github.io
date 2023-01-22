@@ -9,3 +9,4 @@ description: "This is a descrition."
 
 # Build settings
 remote_theme: minima
+  skin: dark
