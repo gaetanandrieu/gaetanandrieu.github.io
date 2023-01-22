@@ -8,4 +8,4 @@ author:
 description: "This is a descrition."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: minima
