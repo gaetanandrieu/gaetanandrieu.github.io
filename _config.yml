@@ -3,6 +3,8 @@ title: Title
 author:
   name: Gaëtan Andrieu
   email: your-email@domain.com
+  github_username:  gaetanandrieu
+
 description: "This is a descrition."
 
 # Build settings
