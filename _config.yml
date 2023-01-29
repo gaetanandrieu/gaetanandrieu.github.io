@@ -15,6 +15,7 @@ theme: minima
 header_pages:
   - about.md
   - basics.md
+  - /courses/test.md
 
 plugins:
   - jekyll-feed

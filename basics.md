@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vulgarisation
+title: Les bases
 permalink: /basics/
 ---
 
