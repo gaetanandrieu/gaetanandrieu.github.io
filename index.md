@@ -8,5 +8,17 @@
 layout: home
 ---
 
-## Ceci est un test.
-HelloWorld!
+## Bienvenue !
+
+Tu trouveras plusieurs pages d'apprentissage autour du domaine de l'électronique.
+
+Stucture du site :
+```
+.
+├── Home
+│   └── Basics
+│       └── L'électricité
+│       └── L'électrocinétique
+│   └── L'électronique
+│   └── Radio
+```
