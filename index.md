@@ -6,9 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: main
 ---
-
-## Bienvenue !
 
 Tu trouveras plusieurs pages d'apprentissage autour du domaine de l'électronique.
 

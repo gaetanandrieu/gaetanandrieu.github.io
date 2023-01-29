@@ -1,4 +1,4 @@
-title: Cours
+title: main
 author:
   name: Gaëtan Andrieu
   email: gaetanandrieu@protonmail.com
@@ -15,7 +15,6 @@ theme: minima
 header_pages:
   - about.md
   - basics.md
-  - /courses/test.md
 
 plugins:
   - jekyll-feed
