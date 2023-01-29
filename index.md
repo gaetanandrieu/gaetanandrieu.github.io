@@ -7,3 +7,6 @@
 #
 layout: home
 ---
+
+## Ceci est un test.
+HelloWorld!
