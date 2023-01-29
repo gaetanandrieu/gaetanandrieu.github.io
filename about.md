@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Ambition
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Accroche : Utiliser des choses qu'on ne comprend pas, danger et inréparable donc plus de gaspillage.
+Pourquoi est-ce que je souhaite partager quelques connaissances avec vous. Objectif : casser le mythe de la boite noire et découvrir que l'électronique n'est pas de la magie noir.
+Vulgarisation électronique pour TOUT publique.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Biography
 
+Explication de qui suis-je.
 
-[jekyll-organization]: https://github.com/jekyll
+# Contact
