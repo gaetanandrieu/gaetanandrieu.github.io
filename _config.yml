@@ -12,6 +12,10 @@ description: >
 
 theme: minima
 
+header_pages:
+  - about.md
+  - basics.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
